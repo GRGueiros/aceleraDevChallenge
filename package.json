@@ -1,0 +1,20 @@
+{
+  "name": "condenation-grgueiros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "lite-server"
+  },
+  "author": "Gabriel Gueiros",
+  "license": "ISC",
+  "dependencies": {
+    "js-sha1": "^0.6.0",
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "webpack": "^4.43.0"
+  }
+}
